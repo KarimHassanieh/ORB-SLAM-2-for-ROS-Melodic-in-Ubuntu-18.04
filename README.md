@@ -1,6 +1,7 @@
-# orb_slam_2_ros
+# ORB SLAM 2  for ROS Melodic in Ubuntu 18.04
 
 ## Overview
+The package is taken from [orb_slam_2_ros](https://github.com/ethz-asl/orb_slam_2_ros) and modified to work on Ubuntu 18.04 under ROS Melodic
 
 This package integrates orb_slam_2 into ROS in what we believe to be a more user friendly way than what is offered by the original library [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
 
@@ -14,7 +15,8 @@ The source code is released under a [GPLv3 license](https://github.com/raulmur/O
 Maintainer: Alex Millane
 Affiliation: Autonomous Systems Lab, ETH Zurich**
 
-The orb_slam_2_ros package has been tested under ROS Indigo on Ubuntu 14.04 and under ROS Kinetic Ubuntu 16.04. This is research code, expect that it changes often and any fitness for a particular purpose is disclaimed.
+**Modified to work on Ubuntu 18.04 by : Karim Hassnaieh **
+The orb_slam_2_ros package has been tested under  ROS Melodic Ubuntu 18.04. This is research code, expect that it changes often and any fitness for a particular purpose is disclaimed.
 
 
 ## Installation: building from Source
@@ -47,7 +49,18 @@ Make sure you have added your SSH keys to your Github account. For more info che
 	git clone git@github.com:uzh-rpg/pangolin_catkin.git # cloning over SSH (github account needed)
 	# git clone https://github.com/uzh-rpg/pangolin_catkin.git # cloning over HTTPS (no github account needed) 
 	```
-
+- [minkindr](https://github.com/ethz-asl/minkindr)
+	```
+	cd ~/catkin_workspace/src
+	# git clone https://github.com/ethz-asl/minkindr.git # cloning over HTTPS (no github account needed) 
+	```
+- [glog_catkin](https://github.com/ethz-asl/glog_catkin)
+	```
+        cd ~/catkin_workspace/src
+	# git clone https://github.com/ethz-asl/glog_catkin.git # cloning over HTTPS (no github account needed) 
+	```
+	
+	
 ### Building
 
 To build from source, clone the latest version from this repository into your catkin workspace and compile the package using
