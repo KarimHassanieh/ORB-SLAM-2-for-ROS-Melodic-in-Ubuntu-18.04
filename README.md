@@ -50,11 +50,14 @@ Make sure you have added your SSH keys to your Github account. For more info che
 	git clone git@github.com:uzh-rpg/pangolin_catkin.git # cloning over SSH (github account needed)
 	# git clone https://github.com/uzh-rpg/pangolin_catkin.git # cloning over HTTPS (no github account needed) 
 	```
-- [minkindr](https://github.com/ethz-asl/minkindr)
+- [glog_catkin](https://github.com/ethz-asl/glog_catkin)
 	```
 	cd ~/catkin_workspace/src
-	# git clone https://github.com/ethz-asl/minkindr.git # cloning over HTTPS (no github account needed) 
-	```
+	# git clone https://github.com/ethz-asl/glog_catkin.git # cloning over HTTPS (no github account needed) 
+        ```
+
+
+
 
 ### Building
 
