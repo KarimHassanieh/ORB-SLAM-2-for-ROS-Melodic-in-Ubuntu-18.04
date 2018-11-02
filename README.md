@@ -50,48 +50,47 @@ Make sure you have added your SSH keys to your Github account. For more info che
 	git clone git@github.com:uzh-rpg/pangolin_catkin.git # cloning over SSH (github account needed)
 	# git clone https://github.com/uzh-rpg/pangolin_catkin.git # cloning over HTTPS (no github account needed) 
 	```
-- [pangolin_catkin](https://github.com/ethz-asl/pangolin_catkin)
+- [minkindr](https://github.com/ethz-asl/minkindr)
 	```
 	cd ~/catkin_workspace/src
-	git clone git@github.com:uzh-rpg/pangolin_catkin.git # cloning over SSH (github account needed)
-	# git clone https://github.com/uzh-rpg/pangolin_catkin.git # cloning over HTTPS (no github account needed) 
+	git clone git@github.com:ethz-asl/minkindr.git # cloning over SSH (github account needed)
+	# git clone https://github.com/ethz-asl/minkindr.git # cloning over HTTPS (no github account needed) 
 	```
-- [pangolin_catkin](https://github.com/ethz-asl/pangolin_catkin)
-	```
-	cd ~/catkin_workspace/src
-	git clone git@github.com:uzh-rpg/pangolin_catkin.git # cloning over SSH (github account needed)
-	# git clone https://github.com/uzh-rpg/pangolin_catkin.git # cloning over HTTPS (no github account needed) 
-	```
-- [pangolin_catkin](https://github.com/ethz-asl/pangolin_catkin)
+- [glog_catkin](https://github.com/ethz-asl/glog_catkin)
 	```
 	cd ~/catkin_workspace/src
-	git clone git@github.com:uzh-rpg/pangolin_catkin.git # cloning over SSH (github account needed)
-	# git clone https://github.com/uzh-rpg/pangolin_catkin.git # cloning over HTTPS (no github account needed) 
+	git clone git@github.com:ethz-asl/glog_catkin.git # cloning over SSH (github account needed)
+	# git clone https://github.com/ethz-asl/glog_catkin.git # cloning over HTTPS (no github account needed) 
 	```
-- [pangolin_catkin](https://github.com/ethz-asl/pangolin_catkin)
-	```
-	cd ~/catkin_workspace/src
-	git clone git@github.com:uzh-rpg/pangolin_catkin.git # cloning over SSH (github account needed)
-	# git clone https://github.com/uzh-rpg/pangolin_catkin.git # cloning over HTTPS (no github account needed) 
-	```
-- [pangolin_catkin](https://github.com/ethz-asl/pangolin_catkin)
+- [eigen_catkin](https://github.com/ethz-asl/eigen_catkin)
 	```
 	cd ~/catkin_workspace/src
-	git clone git@github.com:uzh-rpg/pangolin_catkin.git # cloning over SSH (github account needed)
-	# git clone https://github.com/uzh-rpg/pangolin_catkin.git # cloning over HTTPS (no github account needed) 
+	git clone git@github.com:ethz-asl/eigen_catkin.git # cloning over SSH (github account needed)
+	# git clone https://github.com/ethz-asl/eigen_catkin.git # cloning over HTTPS (no github account needed) 
 	```
-- [pangolin_catkin](https://github.com/ethz-asl/pangolin_catkin)
+- [eigen_checks](https://github.com/ethz-asl/eigen_checks)
 	```
 	cd ~/catkin_workspace/src
-	git clone git@github.com:uzh-rpg/pangolin_catkin.git # cloning over SSH (github account needed)
-	# git clone https://github.com/uzh-rpg/pangolin_catkin.git # cloning over HTTPS (no github account needed) 
+	git clone git@github.com:ethz-asl/eigen_checks.git # cloning over SSH (github account needed)
+	# git clone https://github.com/ethz-asl/eigen_checks.git # cloning over HTTPS (no github account needed) 
+	```
+- [minkindr_conversions](https://github.com/ethz-asl/minkindr_ros)
+	```
+	cd ~/catkin_workspace/src
+	git clone git@github.com:ethz-asl/minkindr_ros.git # cloning over SSH (github account needed)
+	# git clone https://github.com/ethz-asl/minkindr_ros.git # cloning over HTTPS (no github account needed) 
+	```
+- [gflags_catkin](https://github.com/ethz-asl/gflags_catkin)
+	```
+	cd ~/catkin_workspace/src
+	git clone git@github.com:ethz-asl/gflags_catkin.git # cloning over SSH (github account needed)
+	# git clone https://github.com/ethz-asl/gflags_catkin.git # cloning over HTTPS (no github account needed) 
 	```
 
-- [pangolin_catkin](https://github.com/ethz-asl/pangolin_catkin)
+- Autoconf
 	```
-	cd ~/catkin_workspace/src
-	git clone git@github.com:uzh-rpg/pangolin_catkin.git # cloning over SSH (github account needed)
-	# git clone https://github.com/uzh-rpg/pangolin_catkin.git # cloning over HTTPS (no github account needed) 
+	sudo apt-get install autoconf
+
 	```
 
 
